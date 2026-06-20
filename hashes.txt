@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu cuerpo melodía, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Tu cuerpo melodía, Vol. 2** (tu-cuerpo-melodia-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T21:53:36.567588 | `v1` | `1bd031f70dd7877eb5640f24b7cc0b3c3efe85a73f4f012bb38f5e0a78598386` | `b242abbf7974f0b58f06e536f7be46f8c3498a054b5f2b81cfc51c9f7ebf28d8` | `2026-06-20_tu-cuerpo-melodia-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

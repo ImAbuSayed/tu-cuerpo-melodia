@@ -1,4 +1,4 @@
-# Tu cuerpo melodía
+# Tu cuerpo melodía, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Tu cuerpo melodía |
+| **Title** | Tu cuerpo melodía, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-cuerpo-melodia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu cuerpo melodía](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-melodia/) |
+| **Get License** | [Official Music Licensing for Tu cuerpo melodía, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-cuerpo-melodia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your body’s a melody that I just wanna play
+> We’re locked in the rhythm, let the music take you away
+> I'm caught in your gravity, spinning out of control
+> Tonight is a movie, let the energy unfold
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1bd031f70dd7877eb5640f24b7cc0b3c3efe85a73f4f012bb38f5e0a78598386` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
